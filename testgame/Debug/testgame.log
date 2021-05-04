@@ -1,0 +1,9 @@
+﻿  CommonFunc.cpp
+D:\LTNC\testgame\testgame\CommonFunc.h(49,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\LTNC\testgame\testgame\CommonFunc.h(61,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\LTNC\testgame\testgame\CommonFunc.cpp(43,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC\testgame\testgame\CommonFunc.cpp(44,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC\testgame\testgame\CommonFunc.cpp(45,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC\testgame\testgame\CommonFunc.cpp(46,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\LTNC\testgame\testgame\CommonFunc.cpp(27,18): warning C4101: 'menu': unreferenced local variable
+  testgame.vcxproj -> D:\LTNC\testgame\Debug\testgame.exe
