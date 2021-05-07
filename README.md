@@ -1,7 +1,7 @@
 -Họ Tên: Đàm Thị Hồng Ngọc - 20020453
 
 -Game: FlappyBird
--Cách chơi: Sử dụng phím mũi tên lên ( pgup)  khi chơi để chim bay lên. 
+-Cách chơi: Sử dụng phím space  khi chơi để chim bay lên. 
              Sử dụng chuột để nhấn menu như: "Play game", "Play again" , "Exit".
 
 -Các tính năng của game: Có thể chơi gần như game thông thường, có điểm, có chơi lại , có âm thanh khi chim bay qua cột và khi đụng trúng cột, có menu, có sử dụng chuột và bàn phím. 
