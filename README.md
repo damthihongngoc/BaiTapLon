@@ -7,7 +7,7 @@
 -Các tính năng của game: Có thể chơi gần như game thông thường, có điểm, có chơi lại , có âm thanh khi chim bay qua cột và khi đụng trúng cột, có menu, có sử dụng chuột và bàn phím. 
 
 -Tự học và tham khảo tại: 
-	 https://lazyfoo.net/tutorials/SDL/, https://phattrienphanmem123az.com/lap-trinh-game-cpp
+	  https://phattrienphanmem123az.com/lap-trinh-game-cpp
 
 -Hình ảnh và âm thanh tìm kiếm trên google và tự photoshop.
 
