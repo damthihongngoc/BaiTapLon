@@ -1,7 +1,0 @@
-﻿  BlockObject.cpp
-D:\LTNC\testgame\testgame\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
-D:\LTNC\testgame\testgame\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
-D:\LTNC\testgame\testgame\BlockObject.cpp(71,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
-D:\LTNC\testgame\testgame\BlockObject.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
-D:\LTNC\testgame\testgame\BlockObject.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
-  testgame.vcxproj -> D:\LTNC\testgame\Debug\testgame.exe
