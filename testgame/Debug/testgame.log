@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\LTNC\testgame\testgame\CommonFunc.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\LTNC\testgame\testgame\CommonFunc.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\LTNC\testgame\testgame\main.cpp(195,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\LTNC\testgame\testgame\main.cpp(203,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  testgame.vcxproj -> D:\LTNC\testgame\Debug\testgame.exe
